@@ -1,0 +1,10 @@
+body{
+  background: #333;
+  cursor: default;
+}
+
+#brush-color{
+  position: absolute;
+  top: 20;
+  left: 20;
+}
